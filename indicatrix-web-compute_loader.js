@@ -1,0 +1,1 @@
+importScripts("./indicatrix-web-compute.js");wasm_bindgen("./indicatrix-web-compute_bg.wasm");
